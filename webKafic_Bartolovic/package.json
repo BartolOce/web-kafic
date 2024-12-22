@@ -1,0 +1,22 @@
+{
+  "name": "webkafic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "prod": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "flickity": "^3.0.0",
+    "gsap": "^3.12.5",
+    "locomotive-scroll": "^5.0.0-beta.11",
+    "split-type": "^0.3.4"
+  }
+}
